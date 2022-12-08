@@ -1,4 +1,4 @@
-## Olá! Eu sou Sofia 👋
+## Olá! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D52D00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Sofia+Magalhaes;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
