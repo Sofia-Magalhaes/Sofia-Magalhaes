@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Sofia-Magalhaes">
   <img height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=gruvbox"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=transparent"
   />     
   <img height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Magalhaes&layout=compact)](https://github.com/Sofia-Magalhaes/github-readme-stats"
