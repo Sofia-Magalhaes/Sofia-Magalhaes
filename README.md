@@ -5,10 +5,10 @@
 <div align="center">
   <a href="https://github.com/Sofia-Magalhaes">
   <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
-  />
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=gruvbox"
+  />     
   <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Magalhaes&layout=compact&langs_count=7&theme=radical&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Magalhaes&layout=compact)](https://github.com/Sofia-Magalhaes/github-readme-stats"
   />
 </div
 
