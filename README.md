@@ -5,8 +5,9 @@
 <div align="center">
   <a href="https://github.com/Sofia-Magalhaes">
   <img height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=transparent"
-  />     
+  src="https://github-readme-stats.vercel.app/api?username=Sofia-Magalhaes&show_icons=true&theme=transparent"
+  />   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Magalhaes&layout=compact&langs_count=7&theme=transparent&locale=pt-br"/>
   
 </div
 
