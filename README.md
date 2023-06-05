@@ -20,6 +20,7 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Sofia-Lv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
+    <img align="center" alt="Sofia-Bl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blade/blade-plain.svg"/>
     <img align="center" alt="Sofia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="Sofia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>   
     <img align="center" alt="Sofia-Tp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
